@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Zalgo404
+- 👀 I’m interested in Technology, currently studying Computer Engineering.
+- 🌱 I’m currently learning Javascript, React JS, HTML, CSS, PHP, MySQL and C#
+- 📫 How to reach me - davilyra180@hotmail.com
